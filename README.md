@@ -6,8 +6,15 @@
 
 <p>A Math programming language</p>
 
-
 </div>
+
+---
+
+<div align="center">
+<h3>⚠️ Deprecated new version Project in C++, please use the new version ⚠️</h3>
+</div>
+
+---
 
 ## Usage
 
